@@ -67,3 +67,14 @@ A escrita dos requisitos funcionais será feita por meio do modelo de histórias
   **Quero** clicar no botão **ver melhores pontuações**
 
   **Para** vizualizar uma lista com as 100 melhores pontuações dentre o histórico de todas as partidas joagadas pelos jogadores de SNAKE BATTLE
+  
+  
+  ## Requisitos não-funcionais
+  
+  - **HNF01** O Sistema será feito em JavaScript, utilizando Node/Express e Socket.io para o desenvolvimento do seu back-end.
+
+  - **HNF02** O front-end do Sistema será feito utilizando HTML, CSS e Javascript, e para o desenho e animação das estruturas e componentes será utilizada a tag canvas.
+
+  - **HNF03** O Sistema estará disponível nos idiomas Português e Inglês.
+  
+  - **HNF04** Será utilizado design responsivo para as interfaces gráficas, com foco para o sistema rodar em ambiente web.
