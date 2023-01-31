@@ -1,4 +1,4 @@
-# Atividade
+# Lista de Verificação de Design
 
 **Lista de verificação do design do projeto de acordo com o artigo Designing a Complex Software System**
 
